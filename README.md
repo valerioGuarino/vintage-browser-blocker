@@ -7,5 +7,5 @@ Installation
 
 place the js inclusion before closing body tag
 ...
-<script type="text/javascript" src="${pageContext.request.contextPath}/js/block_evil_browser.js"></script>
-</body>
+&lt;script type="text/javascript" src="${pageContext.request.contextPath}/js/block_evil_browser.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
