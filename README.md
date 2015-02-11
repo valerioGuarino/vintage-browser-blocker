@@ -3,7 +3,7 @@ vintage-browser-blocker
 
 block old browser and show ballot screen to update the browser
 
-Installation
+Simple Installation 
 
 place the js inclusion before closing body tag
 ...
