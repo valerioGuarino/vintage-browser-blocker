@@ -5,8 +5,6 @@ block old browser and show ballot screen (like Microsoft browserchoice) to updat
 
 original browser icons by http://leoaw.deviantart.com/art/Browser-Icons-414354683
 
-ASCII version http://picascii.com/
-
 Simple Installation 
 
 place the js inclusion before closing body tag
