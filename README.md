@@ -1,7 +1,7 @@
 vintage-browser-blocker
 =======================
 
-block old browser and show ballot screen (like Microsoft browserchoice) to update the browser
+block old browser and show ballot screen (like Microsoft browser choice) to update the browser
 
 original browser icons by http://leoaw.deviantart.com/art/Browser-Icons-414354683
 
